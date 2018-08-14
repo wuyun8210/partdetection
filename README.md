@@ -1,4 +1,4 @@
-# parts detection using yolo v3.
+# Part detection model (yolo v3) for CUB200-2011 bird dataset
 
 We provide the trained model (yolo v3) for detecting the parts of birds. Thought the model is trained on CUB200-2011 bird dataset, you can use it to detect any birds. If you are interested, please refer to work:
 
